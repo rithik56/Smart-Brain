@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/smart-brain/static/css/main.2f193106.css",
-    "main.js": "/smart-brain/static/js/main.ae3ea80b.js",
-    "static/js/496.ccd48ed1.chunk.js": "/smart-brain/static/js/496.ccd48ed1.chunk.js",
-    "static/media/brain.png": "/smart-brain/static/media/brain.9cf05298a62217abdaf0.png",
-    "index.html": "/smart-brain/index.html",
-    "main.2f193106.css.map": "/smart-brain/static/css/main.2f193106.css.map",
-    "main.ae3ea80b.js.map": "/smart-brain/static/js/main.ae3ea80b.js.map",
-    "496.ccd48ed1.chunk.js.map": "/smart-brain/static/js/496.ccd48ed1.chunk.js.map"
+    "main.css": "./static/css/main.2f193106.css",
+    "main.js": "./static/js/main.f3f1e37b.js",
+    "static/js/496.ccd48ed1.chunk.js": "./static/js/496.ccd48ed1.chunk.js",
+    "static/media/brain.png": "./static/media/brain.9cf05298a62217abdaf0.png",
+    "index.html": "./index.html",
+    "main.2f193106.css.map": "./static/css/main.2f193106.css.map",
+    "main.f3f1e37b.js.map": "./static/js/main.f3f1e37b.js.map",
+    "496.ccd48ed1.chunk.js.map": "./static/js/496.ccd48ed1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f193106.css",
-    "static/js/main.ae3ea80b.js"
+    "static/js/main.f3f1e37b.js"
   ]
 }
